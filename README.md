@@ -15,7 +15,7 @@
 This is my first javascript application i made, to be honest creating functions was challenge to me, after spent hours i finally figured it out.
 
 ## Instructions
-![Psychic](images/1-Psychic.png)
+![Psychic](assets/images/1-Psychic.png)
 
 1. [Watch the demo](https://youtu.be/qTc45Lox97g).
 
