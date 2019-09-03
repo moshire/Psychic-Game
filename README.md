@@ -38,5 +38,12 @@ This is my first javascript application i made, to be honest creating functions 
 ## Live Demo
 [Click here to experience the Psychic-Game App!](https://moshire.github.io/Psychic-Game/)
 
+## Contributing Guidelines
+All contributions and suggestions are welcome! For direct contributions, please fork the repository and file a pull request.
+
+## Contact
+* shire625@gmail.com
+
+
 
 
